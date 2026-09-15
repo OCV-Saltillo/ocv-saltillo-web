@@ -1,0 +1,1686 @@
+[
+  {
+    "path": "dropbox-directory/alameda-zaragoza/01.jpg",
+    "bytes": 391582
+  },
+  {
+    "path": "dropbox-directory/alameda-zaragoza/02.jpg",
+    "bytes": 399333
+  },
+  {
+    "path": "dropbox-directory/alameda-zaragoza/03.jpg",
+    "bytes": 626680
+  },
+  {
+    "path": "dropbox-directory/batalla-angostura/01.jpg",
+    "bytes": 384871
+  },
+  {
+    "path": "dropbox-directory/batalla-angostura/02.jpg",
+    "bytes": 377203
+  },
+  {
+    "path": "dropbox-directory/batalla-angostura/03.jpg",
+    "bytes": 292476
+  },
+  {
+    "path": "dropbox-directory/catedral-santiago/01.jpg",
+    "bytes": 609763
+  },
+  {
+    "path": "dropbox-directory/catedral-santiago/02.jpg",
+    "bytes": 513522
+  },
+  {
+    "path": "dropbox-directory/catedral-santiago/03.jpg",
+    "bytes": 425773
+  },
+  {
+    "path": "dropbox-directory/ciudad-deportiva/01.jpg",
+    "bytes": 604838
+  },
+  {
+    "path": "dropbox-directory/ciudad-deportiva/02.jpg",
+    "bytes": 950174
+  },
+  {
+    "path": "dropbox-directory/ciudad-deportiva/03.jpg",
+    "bytes": 618961
+  },
+  {
+    "path": "dropbox-directory/hotel-imperial/01.jpg",
+    "bytes": 424341
+  },
+  {
+    "path": "dropbox-directory/hotel-imperial/02.jpg",
+    "bytes": 444595
+  },
+  {
+    "path": "dropbox-directory/hotel-imperial/03.jpg",
+    "bytes": 459165
+  },
+  {
+    "path": "dropbox-directory/hyatt-place/01.jpg",
+    "bytes": 278358
+  },
+  {
+    "path": "dropbox-directory/museo-aves/01.jpg",
+    "bytes": 379991
+  },
+  {
+    "path": "dropbox-directory/museo-aves/02.jpg",
+    "bytes": 352495
+  },
+  {
+    "path": "dropbox-directory/museo-aves/03.jpg",
+    "bytes": 501372
+  },
+  {
+    "path": "dropbox-directory/museo-del-desierto/01.jpg",
+    "bytes": 479064
+  },
+  {
+    "path": "dropbox-directory/museo-del-desierto/02.jpg",
+    "bytes": 502749
+  },
+  {
+    "path": "dropbox-directory/museo-del-desierto/03.jpg",
+    "bytes": 403123
+  },
+  {
+    "path": "dropbox-directory/museo-katrina/01.jpg",
+    "bytes": 816506
+  },
+  {
+    "path": "dropbox-directory/museo-katrina/02.jpg",
+    "bytes": 602021
+  },
+  {
+    "path": "dropbox-directory/museo-katrina/03.jpg",
+    "bytes": 608940
+  },
+  {
+    "path": "dropbox-directory/museo-palacio/01.jpg",
+    "bytes": 459934
+  },
+  {
+    "path": "dropbox-directory/parque-chapulin/01.jpg",
+    "bytes": 979486
+  },
+  {
+    "path": "dropbox-directory/parque-chapulin/02.jpg",
+    "bytes": 717119
+  },
+  {
+    "path": "dropbox-directory/parque-chapulin/03.jpg",
+    "bytes": 449264
+  },
+  {
+    "path": "dropbox-directory/san-juan-nepomuceno/01.jpg",
+    "bytes": 170974
+  },
+  {
+    "path": "dropbox-directory/santuario-guadalupe/01.jpg",
+    "bytes": 532693
+  },
+  {
+    "path": "dropbox-directory/santuario-guadalupe/02.jpg",
+    "bytes": 555410
+  },
+  {
+    "path": "dropbox-directory/santuario-guadalupe/03.jpg",
+    "bytes": 489189
+  },
+  {
+    "path": "dropbox-directory/tecnologico-saltillo/01.jpg",
+    "bytes": 388672
+  },
+  {
+    "path": "dropbox-directory/templo-ojo-agua/01.jpg",
+    "bytes": 126129
+  },
+  {
+    "path": "dropbox-directory/templo-san-esteban/01.jpg",
+    "bytes": 103242
+  },
+  {
+    "path": "dropbox-directory/templo-san-francisco/01.jpg",
+    "bytes": 582678
+  },
+  {
+    "path": "dropbox-directory/templo-san-francisco/02.jpg",
+    "bytes": 606887
+  },
+  {
+    "path": "dropbox-directory/voco-suites/01.jpg",
+    "bytes": 614395
+  },
+  {
+    "path": "dropbox-hoteles/ac-marriott/01.jpg",
+    "bytes": 123145
+  },
+  {
+    "path": "dropbox-hoteles/ac-marriott/02.jpg",
+    "bytes": 194797
+  },
+  {
+    "path": "dropbox-hoteles/ac-marriott/03.jpg",
+    "bytes": 129056
+  },
+  {
+    "path": "dropbox-hoteles/best-western/01.jpg",
+    "bytes": 172488
+  },
+  {
+    "path": "dropbox-hoteles/best-western/02.jpg",
+    "bytes": 170611
+  },
+  {
+    "path": "dropbox-hoteles/casa-mayor/01.jpg",
+    "bytes": 251429
+  },
+  {
+    "path": "dropbox-hoteles/casa-mayor/02.jpg",
+    "bytes": 236752
+  },
+  {
+    "path": "dropbox-hoteles/casa-mayor/03.jpg",
+    "bytes": 295441
+  },
+  {
+    "path": "dropbox-hoteles/casa-mayor/04.jpg",
+    "bytes": 191247
+  },
+  {
+    "path": "dropbox-hoteles/city-express-norte/01.jpg",
+    "bytes": 94876
+  },
+  {
+    "path": "dropbox-hoteles/city-express-norte/02.jpg",
+    "bytes": 156836
+  },
+  {
+    "path": "dropbox-hoteles/city-express-norte/03.jpg",
+    "bytes": 106770
+  },
+  {
+    "path": "dropbox-hoteles/city-express-sur/01.jpg",
+    "bytes": 107400
+  },
+  {
+    "path": "dropbox-hoteles/city-express-sur/02.jpg",
+    "bytes": 184399
+  },
+  {
+    "path": "dropbox-hoteles/colonial-alameda/01.jpg",
+    "bytes": 169859
+  },
+  {
+    "path": "dropbox-hoteles/colonial-san-miguel/01.jpg",
+    "bytes": 144262
+  },
+  {
+    "path": "dropbox-hoteles/colonial-san-miguel/02.jpg",
+    "bytes": 138730
+  },
+  {
+    "path": "dropbox-hoteles/colonial-san-miguel/03.jpg",
+    "bytes": 223995
+  },
+  {
+    "path": "dropbox-hoteles/colonial-san-miguel/04.jpg",
+    "bytes": 204352
+  },
+  {
+    "path": "dropbox-hoteles/courtyard-marriott/01.jpg",
+    "bytes": 168453
+  },
+  {
+    "path": "dropbox-hoteles/courtyard-marriott/02.jpg",
+    "bytes": 166880
+  },
+  {
+    "path": "dropbox-hoteles/courtyard-marriott/03.jpg",
+    "bytes": 135094
+  },
+  {
+    "path": "dropbox-hoteles/extended-suites/01.jpg",
+    "bytes": 169939
+  },
+  {
+    "path": "dropbox-hoteles/extended-suites/02.jpg",
+    "bytes": 143543
+  },
+  {
+    "path": "dropbox-hoteles/extended-suites/03.jpg",
+    "bytes": 161617
+  },
+  {
+    "path": "dropbox-hoteles/fiesta-inn/01.jpg",
+    "bytes": 137644
+  },
+  {
+    "path": "dropbox-hoteles/fiesta-inn/02.jpg",
+    "bytes": 95239
+  },
+  {
+    "path": "dropbox-hoteles/fiesta-inn/03.jpg",
+    "bytes": 127235
+  },
+  {
+    "path": "dropbox-hoteles/four-points/01.jpg",
+    "bytes": 196034
+  },
+  {
+    "path": "dropbox-hoteles/four-points/02.jpg",
+    "bytes": 181844
+  },
+  {
+    "path": "dropbox-hoteles/hampton-inn/01.jpg",
+    "bytes": 83970
+  },
+  {
+    "path": "dropbox-hoteles/hampton-inn/02.jpg",
+    "bytes": 215559
+  },
+  {
+    "path": "dropbox-hoteles/holiday-inn/01.jpg",
+    "bytes": 98931
+  },
+  {
+    "path": "dropbox-hoteles/holiday-inn/02.jpg",
+    "bytes": 131018
+  },
+  {
+    "path": "dropbox-hoteles/homewood-suites/01.jpg",
+    "bytes": 148107
+  },
+  {
+    "path": "dropbox-hoteles/homewood-suites/02.jpg",
+    "bytes": 156570
+  },
+  {
+    "path": "dropbox-hoteles/homewood-suites/03.jpg",
+    "bytes": 210057
+  },
+  {
+    "path": "dropbox-hoteles/hotel-capital/01.jpg",
+    "bytes": 109175
+  },
+  {
+    "path": "dropbox-hoteles/hotel-capital/02.jpg",
+    "bytes": 121181
+  },
+  {
+    "path": "dropbox-hoteles/hotel-capital/03.jpg",
+    "bytes": 102866
+  },
+  {
+    "path": "dropbox-hoteles/hotel-centenario/01.jpg",
+    "bytes": 124122
+  },
+  {
+    "path": "dropbox-hoteles/hotel-huizache/01.jpg",
+    "bytes": 132909
+  },
+  {
+    "path": "dropbox-hoteles/hotel-huizache/02.jpg",
+    "bytes": 181992
+  },
+  {
+    "path": "dropbox-hoteles/hotel-huizache/03.jpg",
+    "bytes": 234572
+  },
+  {
+    "path": "dropbox-hoteles/hotel-imperial/01.jpg",
+    "bytes": 169728
+  },
+  {
+    "path": "dropbox-hoteles/hotel-imperial/02.jpg",
+    "bytes": 174924
+  },
+  {
+    "path": "dropbox-hoteles/hotel-imperial/03.jpg",
+    "bytes": 248465
+  },
+  {
+    "path": "dropbox-hoteles/hotel-la-fuente/01.jpg",
+    "bytes": 162970
+  },
+  {
+    "path": "dropbox-hoteles/hotel-la-fuente/02.jpg",
+    "bytes": 120531
+  },
+  {
+    "path": "dropbox-hoteles/hotel-la-fuente/03.jpg",
+    "bytes": 130627
+  },
+  {
+    "path": "dropbox-hoteles/hotel-meson-la-gloria/01.jpg",
+    "bytes": 212512
+  },
+  {
+    "path": "dropbox-hoteles/hotel-meson-la-gloria/02.jpg",
+    "bytes": 233633
+  },
+  {
+    "path": "dropbox-hoteles/hotel-meson-la-gloria/03.jpg",
+    "bytes": 144262
+  },
+  {
+    "path": "dropbox-hoteles/hotel-nuvo/01.jpg",
+    "bytes": 221983
+  },
+  {
+    "path": "dropbox-hoteles/hotel-nuvo/02.jpg",
+    "bytes": 155730
+  },
+  {
+    "path": "dropbox-hoteles/hotel-nuvo/03.jpg",
+    "bytes": 134405
+  },
+  {
+    "path": "dropbox-hoteles/hotel-premier/01.jpg",
+    "bytes": 92804
+  },
+  {
+    "path": "dropbox-hoteles/hotel-premier/02.jpg",
+    "bytes": 166617
+  },
+  {
+    "path": "dropbox-hoteles/hotel-san-jorge/01.jpg",
+    "bytes": 110780
+  },
+  {
+    "path": "dropbox-hoteles/hotel-san-jorge/02.jpg",
+    "bytes": 153167
+  },
+  {
+    "path": "dropbox-hoteles/hotel-san-jorge/03.jpg",
+    "bytes": 138099
+  },
+  {
+    "path": "dropbox-hoteles/hotel-urdinola/01.jpg",
+    "bytes": 203190
+  },
+  {
+    "path": "dropbox-hoteles/hotel-urdinola/02.jpg",
+    "bytes": 283731
+  },
+  {
+    "path": "dropbox-hoteles/hyatt-place/01.jpg",
+    "bytes": 1890888
+  },
+  {
+    "path": "dropbox-hoteles/hyatt-place/02.jpg",
+    "bytes": 1451156
+  },
+  {
+    "path": "dropbox-hoteles/one-derramadero/01.jpg",
+    "bytes": 139936
+  },
+  {
+    "path": "dropbox-hoteles/one-derramadero/02.jpg",
+    "bytes": 146534
+  },
+  {
+    "path": "dropbox-hoteles/one-derramadero/03.jpg",
+    "bytes": 183423
+  },
+  {
+    "path": "dropbox-hoteles/quinta-dorada/01.jpg",
+    "bytes": 83950
+  },
+  {
+    "path": "dropbox-hoteles/quinta-dorada/02.jpg",
+    "bytes": 170602
+  },
+  {
+    "path": "dropbox-hoteles/rancho-el-morillo/01.jpg",
+    "bytes": 227976
+  },
+  {
+    "path": "dropbox-hoteles/rancho-el-morillo/02.jpg",
+    "bytes": 381945
+  },
+  {
+    "path": "dropbox-hoteles/rancho-el-morillo/03.jpg",
+    "bytes": 252809
+  },
+  {
+    "path": "dropbox-hoteles/rancho-el-morillo/04.jpg",
+    "bytes": 192109
+  },
+  {
+    "path": "dropbox-hoteles/staybridge-suites/01.jpg",
+    "bytes": 91534
+  },
+  {
+    "path": "dropbox-hoteles/staybridge-suites/02.jpg",
+    "bytes": 133458
+  },
+  {
+    "path": "dropbox-hoteles/staybridge-suites/03.jpg",
+    "bytes": 152702
+  },
+  {
+    "path": "dropbox-hoteles/staybridge-suites/04.jpg",
+    "bytes": 82854
+  },
+  {
+    "path": "dropbox-hoteles/voco-suites/01.jpg",
+    "bytes": 171339
+  },
+  {
+    "path": "dropbox-hoteles/voco-suites/02.jpg",
+    "bytes": 236752
+  },
+  {
+    "path": "dropbox-hoteles/voco-suites/03.jpg",
+    "bytes": 183548
+  },
+  {
+    "path": "dropbox-hoteles/wyndham-garden/01.jpg",
+    "bytes": 113985
+  },
+  {
+    "path": "dropbox-hoteles/wyndham-garden/02.jpg",
+    "bytes": 130110
+  },
+  {
+    "path": "dropbox-industrial/complejo-daimler-derramadero/01.jpg",
+    "bytes": 750604
+  },
+  {
+    "path": "dropbox-industrial/complejo-daimler-derramadero/02.jpg",
+    "bytes": 932607
+  },
+  {
+    "path": "dropbox-industrial/complejo-daimler-derramadero/03.jpg",
+    "bytes": 916961
+  },
+  {
+    "path": "dropbox-industrial/complejo-industrial-holcim/01.jpg",
+    "bytes": 826431
+  },
+  {
+    "path": "dropbox-industrial/complejo-industrial-holcim/02.jpg",
+    "bytes": 750721
+  },
+  {
+    "path": "dropbox-industrial/complejo-industrial-holcim/03.jpg",
+    "bytes": 747189
+  },
+  {
+    "path": "dropbox-industrial/corredor-industrial-carretera-monclova/01.jpg",
+    "bytes": 920528
+  },
+  {
+    "path": "dropbox-industrial/corredor-industrial-carretera-monclova/02.jpg",
+    "bytes": 1253548
+  },
+  {
+    "path": "dropbox-industrial/corredor-industrial-carretera-monclova/03.jpg",
+    "bytes": 1176520
+  },
+  {
+    "path": "dropbox-industrial/fca-planta-motores/01.jpg",
+    "bytes": 771610
+  },
+  {
+    "path": "dropbox-industrial/fca-planta-motores/02.jpg",
+    "bytes": 890268
+  },
+  {
+    "path": "dropbox-industrial/fca-planta-motores/03.jpg",
+    "bytes": 900712
+  },
+  {
+    "path": "dropbox-industrial/fundadores-industrial-park/01.jpg",
+    "bytes": 706800
+  },
+  {
+    "path": "dropbox-industrial/fundadores-industrial-park/02.jpg",
+    "bytes": 822336
+  },
+  {
+    "path": "dropbox-industrial/fundadores-industrial-park/03.jpg",
+    "bytes": 839445
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-360/01.jpg",
+    "bytes": 798902
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-360/02.jpg",
+    "bytes": 777996
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-360/03.jpg",
+    "bytes": 775653
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-alianza-derramadero/01.jpg",
+    "bytes": 695673
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-alianza-derramadero/02.jpg",
+    "bytes": 713929
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-alianza-derramadero/03.jpg",
+    "bytes": 717136
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-amistad-morelos/01.jpg",
+    "bytes": 818673
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-amistad-morelos/02.jpg",
+    "bytes": 854985
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-amistad-morelos/03.jpg",
+    "bytes": 943722
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-amistad-sur/01.jpg",
+    "bytes": 851559
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-amistad-sur/02.jpg",
+    "bytes": 597925
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-amistad-sur/03.jpg",
+    "bytes": 755501
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-angostura-zapaliname/01.jpg",
+    "bytes": 667175
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-angostura-zapaliname/02.jpg",
+    "bytes": 659049
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-angostura-zapaliname/03.jpg",
+    "bytes": 485263
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-arteaga/01.jpg",
+    "bytes": 819825
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-arteaga/02.jpg",
+    "bytes": 833468
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-arteaga/03.jpg",
+    "bytes": 847704
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-cactus/01.jpg",
+    "bytes": 599842
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-cactus/02.jpg",
+    "bytes": 616974
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-cactus/03.jpg",
+    "bytes": 571742
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-finsa/01.jpg",
+    "bytes": 673163
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-finsa/02.jpg",
+    "bytes": 819924
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-finsa/03.jpg",
+    "bytes": 799594
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-ramos-arizpe/01.jpg",
+    "bytes": 733739
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-ramos-arizpe/02.jpg",
+    "bytes": 1017372
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-ramos-arizpe/03.jpg",
+    "bytes": 914603
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-santa-maria/01.jpg",
+    "bytes": 977970
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-santa-maria/02.jpg",
+    "bytes": 998541
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-santa-maria/03.jpg",
+    "bytes": 1061882
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-santa-monica-derramadero/01.jpg",
+    "bytes": 928457
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-santa-monica-derramadero/02.jpg",
+    "bytes": 957822
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-santa-monica-derramadero/03.jpg",
+    "bytes": 687809
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-vynmsa/01.jpg",
+    "bytes": 680879
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-vynmsa/02.jpg",
+    "bytes": 752424
+  },
+  {
+    "path": "dropbox-industrial/parque-industrial-vynmsa/03.jpg",
+    "bytes": 754154
+  },
+  {
+    "path": "dropbox-museos/batalla-angostura/dji-0744.jpg",
+    "bytes": 258696
+  },
+  {
+    "path": "dropbox-museos/batalla-angostura/fachada-museo-de-la-angostura.jpg",
+    "bytes": 692232
+  },
+  {
+    "path": "dropbox-museos/batalla-angostura/img-9919.jpg",
+    "bytes": 264660
+  },
+  {
+    "path": "dropbox-museos/batalla-angostura/img-9956.jpg",
+    "bytes": 163531
+  },
+  {
+    "path": "dropbox-museos/batalla-angostura/maqueta-batalla-de-la-angostura.jpg",
+    "bytes": 647374
+  },
+  {
+    "path": "dropbox-museos/batalla-angostura/visitante-observando-bitrina-museo-de-la-angostura.jpg",
+    "bytes": 494675
+  },
+  {
+    "path": "dropbox-museos/casa-juarez/rj.jpg",
+    "bytes": 94191
+  },
+  {
+    "path": "dropbox-museos/casa-juarez/rj1.jpg",
+    "bytes": 132520
+  },
+  {
+    "path": "dropbox-museos/casa-purcell/casa-purcell-1.jpg",
+    "bytes": 166117
+  },
+  {
+    "path": "dropbox-museos/casa-purcell/casa-purcell-2.jpg",
+    "bytes": 193304
+  },
+  {
+    "path": "dropbox-museos/casa-purcell/casa-purcell-3.jpg",
+    "bytes": 140664
+  },
+  {
+    "path": "dropbox-museos/museo-artes-graficas/fachada-3.jpg",
+    "bytes": 243811
+  },
+  {
+    "path": "dropbox-museos/museo-artes-graficas/interior.jpg",
+    "bytes": 145963
+  },
+  {
+    "path": "dropbox-museos/museo-artes-graficas/vista-salas.jpg",
+    "bytes": 274216
+  },
+  {
+    "path": "dropbox-museos/museo-aves/ma.jpg",
+    "bytes": 148222
+  },
+  {
+    "path": "dropbox-museos/museo-aves/ma1.jpg",
+    "bytes": 119566
+  },
+  {
+    "path": "dropbox-museos/museo-aves/ma2.jpg",
+    "bytes": 353242
+  },
+  {
+    "path": "dropbox-museos/museo-aves/ma3.jpg",
+    "bytes": 261798
+  },
+  {
+    "path": "dropbox-museos/museo-aves/ma4.jpg",
+    "bytes": 218919
+  },
+  {
+    "path": "dropbox-museos/museo-aves/ma5.jpg",
+    "bytes": 295076
+  },
+  {
+    "path": "dropbox-museos/museo-aves/ma6.jpg",
+    "bytes": 240564
+  },
+  {
+    "path": "dropbox-museos/museo-aves/ma7.jpg",
+    "bytes": 283665
+  },
+  {
+    "path": "dropbox-museos/museo-cultura-taurina/culturataurina.jpg",
+    "bytes": 184697
+  },
+  {
+    "path": "dropbox-museos/museo-cultura-taurina/culturataurina2.jpg",
+    "bytes": 129603
+  },
+  {
+    "path": "dropbox-museos/museo-del-desierto/md.jpg",
+    "bytes": 270006
+  },
+  {
+    "path": "dropbox-museos/museo-del-desierto/md1.jpg",
+    "bytes": 216299
+  },
+  {
+    "path": "dropbox-museos/museo-del-desierto/md10.jpg",
+    "bytes": 137794
+  },
+  {
+    "path": "dropbox-museos/museo-del-desierto/md11.jpg",
+    "bytes": 216421
+  },
+  {
+    "path": "dropbox-museos/museo-del-desierto/md2.jpg",
+    "bytes": 350877
+  },
+  {
+    "path": "dropbox-museos/museo-del-desierto/md3.jpg",
+    "bytes": 257814
+  },
+  {
+    "path": "dropbox-museos/museo-del-desierto/md4.jpg",
+    "bytes": 277796
+  },
+  {
+    "path": "dropbox-museos/museo-del-desierto/md5.jpg",
+    "bytes": 159035
+  },
+  {
+    "path": "dropbox-museos/museo-del-desierto/md6.jpg",
+    "bytes": 207984
+  },
+  {
+    "path": "dropbox-museos/museo-del-desierto/md7.jpg",
+    "bytes": 233461
+  },
+  {
+    "path": "dropbox-museos/museo-del-desierto/md8.jpg",
+    "bytes": 249185
+  },
+  {
+    "path": "dropbox-museos/museo-del-desierto/md9.jpg",
+    "bytes": 222092
+  },
+  {
+    "path": "dropbox-museos/museo-katrina/catrina-01.jpg",
+    "bytes": 393555
+  },
+  {
+    "path": "dropbox-museos/museo-katrina/catrina-04.jpg",
+    "bytes": 422067
+  },
+  {
+    "path": "dropbox-museos/museo-katrina/catrina-06.jpg",
+    "bytes": 535178
+  },
+  {
+    "path": "dropbox-museos/museo-katrina/museo-de-la-katrina-y-las-munecas-fachada.jpg",
+    "bytes": 679485
+  },
+  {
+    "path": "dropbox-museos/museo-katrina/museo-de-la-katrina-y-las-munecas-hab.jpg",
+    "bytes": 852218
+  },
+  {
+    "path": "dropbox-museos/museo-katrina/museo-de-la-katrina-y-las-munecas-habitacion-lapiz.jpg",
+    "bytes": 928384
+  },
+  {
+    "path": "dropbox-museos/museo-katrina/museo-de-la-katrina-y-las-munecas-interior.jpg",
+    "bytes": 935798
+  },
+  {
+    "path": "dropbox-museos/museo-katrina/terminar-10.jpg",
+    "bytes": 357942
+  },
+  {
+    "path": "dropbox-museos/museo-maleficis/01-fachada-malefecis.jpg",
+    "bytes": 459583
+  },
+  {
+    "path": "dropbox-museos/museo-maleficis/02-hab-malefecis.jpg",
+    "bytes": 348687
+  },
+  {
+    "path": "dropbox-museos/museo-maleficis/03-hab-malefecis.jpg",
+    "bytes": 309815
+  },
+  {
+    "path": "dropbox-museos/museo-maleficis/05-hab-malefecis.jpg",
+    "bytes": 380036
+  },
+  {
+    "path": "dropbox-museos/museo-maleficis/06-hab-maleficis.jpg",
+    "bytes": 325185
+  },
+  {
+    "path": "dropbox-museos/museo-maleficis/07-hab-malefecis.jpg",
+    "bytes": 229734
+  },
+  {
+    "path": "dropbox-museos/museo-normalismo/5023fdd34e310img-0722-ok.jpg",
+    "bytes": 192013
+  },
+  {
+    "path": "dropbox-museos/museo-normalismo/anecdotarios-planta-alta-scaled.jpg",
+    "bytes": 169636
+  },
+  {
+    "path": "dropbox-museos/museo-normalismo/museo-del-normalismo-coahuila.jpg",
+    "bytes": 245780
+  },
+  {
+    "path": "dropbox-museos/museo-normalismo/sala-ii-normalismo-origenes-del-siglo-xix-scaled.jpg",
+    "bytes": 195569
+  },
+  {
+    "path": "dropbox-museos/museo-normalismo/sala-vi-educacion-y-arte-scaled.jpg",
+    "bytes": 146149
+  },
+  {
+    "path": "dropbox-museos/museo-palacio/mp.jpg",
+    "bytes": 205304
+  },
+  {
+    "path": "dropbox-museos/museo-palacio/mp1.jpg",
+    "bytes": 193096
+  },
+  {
+    "path": "dropbox-museos/museo-palacio/mp2.jpg",
+    "bytes": 125392
+  },
+  {
+    "path": "dropbox-museos/museo-palacio/mp3.jpg",
+    "bytes": 158731
+  },
+  {
+    "path": "dropbox-museos/museo-ruben-herrera/37766.jpg",
+    "bytes": 163169
+  },
+  {
+    "path": "dropbox-museos/museo-ruben-herrera/ruben-herrera.jpg",
+    "bytes": 303602
+  },
+  {
+    "path": "dropbox-museos/museo-ruben-herrera/sala-principal.jpg",
+    "bytes": 154240
+  },
+  {
+    "path": "dropbox-museos/museo-sarape/dsc05760.jpg",
+    "bytes": 1567056
+  },
+  {
+    "path": "dropbox-museos/museo-sarape/dsc05765.jpg",
+    "bytes": 1394139
+  },
+  {
+    "path": "dropbox-museos/museo-sarape/dsc05785.jpg",
+    "bytes": 1665261
+  },
+  {
+    "path": "dropbox-museos/museo-sarape/dsc05861.jpg",
+    "bytes": 1165091
+  },
+  {
+    "path": "dropbox-museos/museo-sarape/hilos-telar-para-sarape-de-saltillo-coahuila.jpg",
+    "bytes": 94533
+  },
+  {
+    "path": "dropbox-museos/museo-sarape/hilos-telar-para-sarape-de-saltillo.jpg",
+    "bytes": 122174
+  },
+  {
+    "path": "dropbox-museos/museo-sarape/hombre-artesano-en-telar-para-sarape-de-saltillo.jpg",
+    "bytes": 138049
+  },
+  {
+    "path": "dropbox-museos/museo-sarape/telar-para-sarape-de-saltillo.jpg",
+    "bytes": 129484
+  },
+  {
+    "path": "dropbox-museos/patrimonio-cultural-universitario/pc.jpg",
+    "bytes": 137403
+  },
+  {
+    "path": "dropbox-museos/patrimonio-cultural-universitario/pc1.jpg",
+    "bytes": 156647
+  },
+  {
+    "path": "dropbox-museos/pinacoteca-ateneo/pa.jpg",
+    "bytes": 158540
+  },
+  {
+    "path": "dropbox-museos/pinacoteca-ateneo/pa1.jpg",
+    "bytes": 203954
+  },
+  {
+    "path": "dropbox-museos/presidentes-coahuilenses/mp.jpg",
+    "bytes": 203191
+  },
+  {
+    "path": "dropbox-museos/presidentes-coahuilenses/mp1.jpg",
+    "bytes": 127454
+  },
+  {
+    "path": "dropbox-museos/presidentes-coahuilenses/mp2.jpg",
+    "bytes": 156749
+  },
+  {
+    "path": "dropbox-museos/revolucion-mexicana/dsc05969.jpg",
+    "bytes": 271191
+  },
+  {
+    "path": "dropbox-museos/revolucion-mexicana/museos-3.jpg",
+    "bytes": 244955
+  },
+  {
+    "path": "dropbox-museos/revolucion-mexicana/revolucion-sala.jpg",
+    "bytes": 238253
+  },
+  {
+    "path": "dropbox-museos/sala-historia-natural/mh.jpg",
+    "bytes": 135325
+  },
+  {
+    "path": "dropbox-museos/sala-historia-natural/mh1.jpg",
+    "bytes": 196086
+  },
+  {
+    "path": "dropbox-museos/salas-carranza/carranza.jpg",
+    "bytes": 193175
+  },
+  {
+    "path": "dropbox-museos/salas-carranza/sc.jpg",
+    "bytes": 143132
+  },
+  {
+    "path": "dropbox-museos/teatro-garcia-carrillo/gc.jpg",
+    "bytes": 245180
+  },
+  {
+    "path": "dropbox-museos/teatro-garcia-carrillo/gc1.jpg",
+    "bytes": 262084
+  },
+  {
+    "path": "dropbox-museos/vito-alessio-robles/vitoalessio1.jpg",
+    "bytes": 155650
+  },
+  {
+    "path": "dropbox-museos/vito-alessio-robles/vitoalessio2.jpg",
+    "bytes": 201919
+  },
+  {
+    "path": "dropbox-museos/vito-alessio-robles/vitoalessio3.jpg",
+    "bytes": 201450
+  },
+  {
+    "path": "dropbox-parques/alameda-zaragoza/pa1web.jpg",
+    "bytes": 321504
+  },
+  {
+    "path": "dropbox-parques/alameda-zaragoza/pa2web.jpg",
+    "bytes": 407231
+  },
+  {
+    "path": "dropbox-parques/alameda-zaragoza/pa3web.jpg",
+    "bytes": 379079
+  },
+  {
+    "path": "dropbox-parques/alameda-zaragoza/paweb.jpg",
+    "bytes": 327065
+  },
+  {
+    "path": "dropbox-parques/biblioparque-norte/bpn.jpg",
+    "bytes": 241117
+  },
+  {
+    "path": "dropbox-parques/biblioparque-norte/bpn1.jpg",
+    "bytes": 164360
+  },
+  {
+    "path": "dropbox-parques/biblioparque-sur/bps.jpg",
+    "bytes": 246705
+  },
+  {
+    "path": "dropbox-parques/biblioparque-sur/bps1.jpg",
+    "bytes": 104323
+  },
+  {
+    "path": "dropbox-parques/ciudad-deportiva/cd1.jpg",
+    "bytes": 246838
+  },
+  {
+    "path": "dropbox-parques/ciudad-deportiva/cd2.jpg",
+    "bytes": 211683
+  },
+  {
+    "path": "dropbox-parques/ciudad-deportiva/cd3.jpg",
+    "bytes": 405052
+  },
+  {
+    "path": "dropbox-parques/ciudad-deportiva/cd4.jpg",
+    "bytes": 264601
+  },
+  {
+    "path": "dropbox-parques/ciudad-deportiva/cd6.jpg",
+    "bytes": 369226
+  },
+  {
+    "path": "dropbox-parques/ciudad-deportiva/cd7.jpg",
+    "bytes": 166576
+  },
+  {
+    "path": "dropbox-parques/ciudad-deportiva/cd8.jpg",
+    "bytes": 202703
+  },
+  {
+    "path": "dropbox-parques/ciudad-deportiva/cd9.jpg",
+    "bytes": 172140
+  },
+  {
+    "path": "dropbox-parques/ciudad-deportiva/cdweb.jpg",
+    "bytes": 392454
+  },
+  {
+    "path": "dropbox-parques/gran-bosque-urbano/bu.jpg",
+    "bytes": 227775
+  },
+  {
+    "path": "dropbox-parques/gran-bosque-urbano/bu1.jpg",
+    "bytes": 148673
+  },
+  {
+    "path": "dropbox-parques/linea-verde/lv.jpg",
+    "bytes": 262692
+  },
+  {
+    "path": "dropbox-parques/linea-verde/lv1.jpg",
+    "bytes": 183206
+  },
+  {
+    "path": "dropbox-parques/parque-chapulin/pc.jpg",
+    "bytes": 381750
+  },
+  {
+    "path": "dropbox-parques/parque-chapulin/pc1.jpg",
+    "bytes": 377279
+  },
+  {
+    "path": "dropbox-parques/parque-chapulin/pc2.jpg",
+    "bytes": 336840
+  },
+  {
+    "path": "dropbox-parques/parque-chapulin/pc3.jpg",
+    "bytes": 357229
+  },
+  {
+    "path": "dropbox-parques/parque-chapulin/pc4.jpg",
+    "bytes": 242504
+  },
+  {
+    "path": "dropbox-parques/parque-maravillas/pm.jpg",
+    "bytes": 189019
+  },
+  {
+    "path": "dropbox-parques/parque-maravillas/pm1.jpg",
+    "bytes": 235970
+  },
+  {
+    "path": "dropbox-parques/parque-mirador/pm2.jpg",
+    "bytes": 175835
+  },
+  {
+    "path": "dropbox-productos-locales/dulces-finos-3-rosas/01.jpg",
+    "bytes": 209448
+  },
+  {
+    "path": "dropbox-productos-locales/dulces-salazar/01.jpg",
+    "bytes": 100554
+  },
+  {
+    "path": "dropbox-productos-locales/dulces-salazar/02.jpg",
+    "bytes": 150999
+  },
+  {
+    "path": "dropbox-productos-locales/el-tejocote/01.jpg",
+    "bytes": 144162
+  },
+  {
+    "path": "dropbox-productos-locales/el-tejocote/02.jpg",
+    "bytes": 142752
+  },
+  {
+    "path": "dropbox-productos-locales/el-tejocote/03.jpg",
+    "bytes": 121262
+  },
+  {
+    "path": "dropbox-productos-locales/merendero-saltillo/01.jpg",
+    "bytes": 181190
+  },
+  {
+    "path": "dropbox-productos-locales/merendero-saltillo/02.jpg",
+    "bytes": 160091
+  },
+  {
+    "path": "dropbox-productos-locales/merendero-saltillo/03.jpg",
+    "bytes": 99711
+  },
+  {
+    "path": "dropbox-productos-locales/mora-pan/01.jpg",
+    "bytes": 158257
+  },
+  {
+    "path": "dropbox-productos-locales/mora-pan/02.jpg",
+    "bytes": 174971
+  },
+  {
+    "path": "dropbox-productos-locales/mora-pan/03.jpg",
+    "bytes": 187343
+  },
+  {
+    "path": "dropbox-productos-locales/pan-mena/01.jpg",
+    "bytes": 211103
+  },
+  {
+    "path": "dropbox-productos-locales/pan-mena/02.jpg",
+    "bytes": 180599
+  },
+  {
+    "path": "dropbox-productos-locales/pan-mena/03.jpg",
+    "bytes": 166753
+  },
+  {
+    "path": "dropbox-productos-locales/panaderia-los-alamos/01.jpg",
+    "bytes": 132817
+  },
+  {
+    "path": "dropbox-productos-locales/panaderia-los-alamos/02.jpg",
+    "bytes": 103790
+  },
+  {
+    "path": "dropbox-regional/museo-general-cepeda/01.jpg",
+    "bytes": 1961367
+  },
+  {
+    "path": "dropbox-regional/museo-general-cepeda/02.jpg",
+    "bytes": 2016035
+  },
+  {
+    "path": "dropbox-regional/museo-general-cepeda/03.jpg",
+    "bytes": 3252950
+  },
+  {
+    "path": "dropbox-regional/museo-general-cepeda/04.jpg",
+    "bytes": 2061005
+  },
+  {
+    "path": "dropbox-regional/museo-momias-san-antonio/01.jpg",
+    "bytes": 2007107
+  },
+  {
+    "path": "dropbox-regional/museo-momias-san-antonio/02.jpg",
+    "bytes": 2395992
+  },
+  {
+    "path": "dropbox-regional/museo-momias-san-antonio/03.jpg",
+    "bytes": 2509511
+  },
+  {
+    "path": "dropbox-regional/museo-momias-san-antonio/04.jpg",
+    "bytes": 7847145
+  },
+  {
+    "path": "dropbox-regional/rincon-colorado/01.jpg",
+    "bytes": 2895317
+  },
+  {
+    "path": "dropbox-regional/rincon-colorado/02.jpg",
+    "bytes": 2943839
+  },
+  {
+    "path": "dropbox-regional/rincon-colorado/03.jpg",
+    "bytes": 2556329
+  },
+  {
+    "path": "dropbox-regional/rincon-colorado/04.jpg",
+    "bytes": 2685496
+  },
+  {
+    "path": "dropbox-regional/templo-san-antonio-alazanas/01.jpg",
+    "bytes": 1363053
+  },
+  {
+    "path": "dropbox-regional/templo-san-antonio-alazanas/02.jpg",
+    "bytes": 934542
+  },
+  {
+    "path": "dropbox-regional/templo-san-antonio-alazanas/03.jpg",
+    "bytes": 939828
+  },
+  {
+    "path": "dropbox-regional/templo-san-antonio-alazanas/04.jpg",
+    "bytes": 1061963
+  },
+  {
+    "path": "dropbox-regional/templo-san-isidro-arteaga/01.jpg",
+    "bytes": 4717838
+  },
+  {
+    "path": "dropbox-regional/templo-san-isidro-arteaga/02.jpg",
+    "bytes": 1720055
+  },
+  {
+    "path": "dropbox-regional/templo-san-isidro-arteaga/03.jpg",
+    "bytes": 854351
+  },
+  {
+    "path": "dropbox-restaurantes/akari-japanese-bistro/ak.jpg",
+    "bytes": 136914
+  },
+  {
+    "path": "dropbox-restaurantes/akari-japanese-bistro/ak1.jpg",
+    "bytes": 155702
+  },
+  {
+    "path": "dropbox-restaurantes/al-sazon-mexicano/az.jpg",
+    "bytes": 225331
+  },
+  {
+    "path": "dropbox-restaurantes/al-sazon-mexicano/az1.jpg",
+    "bytes": 225331
+  },
+  {
+    "path": "dropbox-restaurantes/al-sazon-mexicano/az2.jpg",
+    "bytes": 206272
+  },
+  {
+    "path": "dropbox-restaurantes/boru/b.jpg",
+    "bytes": 117004
+  },
+  {
+    "path": "dropbox-restaurantes/boru/b1.jpg",
+    "bytes": 129682
+  },
+  {
+    "path": "dropbox-restaurantes/casa-1900/c.jpg",
+    "bytes": 215424
+  },
+  {
+    "path": "dropbox-restaurantes/casa-1900/c1.jpg",
+    "bytes": 260089
+  },
+  {
+    "path": "dropbox-restaurantes/coralillo/cl.jpg",
+    "bytes": 248408
+  },
+  {
+    "path": "dropbox-restaurantes/coralillo/cl1.jpg",
+    "bytes": 171521
+  },
+  {
+    "path": "dropbox-restaurantes/delicias-mi-general/ddg.jpg",
+    "bytes": 238620
+  },
+  {
+    "path": "dropbox-restaurantes/delicias-mi-general/ddg1.jpg",
+    "bytes": 151992
+  },
+  {
+    "path": "dropbox-restaurantes/don-artemio/da.jpg",
+    "bytes": 145998
+  },
+  {
+    "path": "dropbox-restaurantes/don-artemio/da1.jpg",
+    "bytes": 198426
+  },
+  {
+    "path": "dropbox-restaurantes/frida-diego/fd.jpg",
+    "bytes": 397832
+  },
+  {
+    "path": "dropbox-restaurantes/frida-diego/fd1.jpg",
+    "bytes": 233238
+  },
+  {
+    "path": "dropbox-restaurantes/hacienda-los-compadres/hc.jpg",
+    "bytes": 196445
+  },
+  {
+    "path": "dropbox-restaurantes/hacienda-los-compadres/hc1.jpg",
+    "bytes": 178043
+  },
+  {
+    "path": "dropbox-restaurantes/horno-y-piedra/hp.jpg",
+    "bytes": 164032
+  },
+  {
+    "path": "dropbox-restaurantes/horno-y-piedra/hp1.jpg",
+    "bytes": 185620
+  },
+  {
+    "path": "dropbox-restaurantes/il-mercato-gentiloni/lm.jpg",
+    "bytes": 140581
+  },
+  {
+    "path": "dropbox-restaurantes/il-mercato-gentiloni/lm2.jpg",
+    "bytes": 200138
+  },
+  {
+    "path": "dropbox-restaurantes/la-cipolla/lc.jpg",
+    "bytes": 179474
+  },
+  {
+    "path": "dropbox-restaurantes/la-cipolla/lc1.jpg",
+    "bytes": 159439
+  },
+  {
+    "path": "dropbox-restaurantes/lulu-cocina-y-vino/l.jpg",
+    "bytes": 276251
+  },
+  {
+    "path": "dropbox-restaurantes/lulu-cocina-y-vino/l1.jpg",
+    "bytes": 146501
+  },
+  {
+    "path": "dropbox-restaurantes/matsuri-ramen/mr.jpg",
+    "bytes": 188955
+  },
+  {
+    "path": "dropbox-restaurantes/matsuri-ramen/mr1.jpg",
+    "bytes": 185388
+  },
+  {
+    "path": "dropbox-restaurantes/meson-principal/mp.jpg",
+    "bytes": 234344
+  },
+  {
+    "path": "dropbox-restaurantes/meson-principal/mp1.jpg",
+    "bytes": 182438
+  },
+  {
+    "path": "dropbox-restaurantes/pour-la-france/plf.jpg",
+    "bytes": 159038
+  },
+  {
+    "path": "dropbox-restaurantes/pour-la-france/plf1.jpg",
+    "bytes": 216732
+  },
+  {
+    "path": "dropbox-restaurantes/sol-y-luna/sl.jpg",
+    "bytes": 198082
+  },
+  {
+    "path": "dropbox-restaurantes/sol-y-luna/sl1.jpg",
+    "bytes": 212466
+  },
+  {
+    "path": "dropbox-restaurantes/sushi-itto/s.jpg",
+    "bytes": 129358
+  },
+  {
+    "path": "dropbox-restaurantes/sushi-itto/s1.jpg",
+    "bytes": 186072
+  },
+  {
+    "path": "dropbox-restaurantes/sushi-itto/s2.jpg",
+    "bytes": 245645
+  },
+  {
+    "path": "dropbox-restaurantes/vaca-argentina/lva.jpg",
+    "bytes": 192958
+  },
+  {
+    "path": "dropbox-restaurantes/vaca-argentina/lva1.jpg",
+    "bytes": 129109
+  },
+  {
+    "path": "events/festival-paella-2026.jpg",
+    "bytes": 65860
+  },
+  {
+    "path": "guia-saltillo/agave-destilados.jpg",
+    "bytes": 382380
+  },
+  {
+    "path": "guia-saltillo/alameda-zaragoza.jpg",
+    "bytes": 903870
+  },
+  {
+    "path": "guia-saltillo/ateneo-fuente.jpg",
+    "bytes": 442956
+  },
+  {
+    "path": "guia-saltillo/barricas-vino.jpg",
+    "bytes": 751117
+  },
+  {
+    "path": "guia-saltillo/canon-san-lorenzo.jpg",
+    "bytes": 238921
+  },
+  {
+    "path": "guia-saltillo/catedral-santiago.jpg",
+    "bytes": 544180
+  },
+  {
+    "path": "guia-saltillo/centro-historico-aereo.jpg",
+    "bytes": 756619
+  },
+  {
+    "path": "guia-saltillo/centro-historico.jpg",
+    "bytes": 670601
+  },
+  {
+    "path": "guia-saltillo/cocina-mexicana.jpg",
+    "bytes": 679680
+  },
+  {
+    "path": "guia-saltillo/compras-saltillo.jpg",
+    "bytes": 292127
+  },
+  {
+    "path": "guia-saltillo/gastronomia-saltillo.jpg",
+    "bytes": 849351
+  },
+  {
+    "path": "guia-saltillo/hotel-saltillo.png",
+    "bytes": 4996955
+  },
+  {
+    "path": "guia-saltillo/museo-del-desierto.jpg",
+    "bytes": 722456
+  },
+  {
+    "path": "guia-saltillo/pan-de-pulque.jpg",
+    "bytes": 360285
+  },
+  {
+    "path": "guia-saltillo/saltillo-nocturno.jpg",
+    "bytes": 574511
+  },
+  {
+    "path": "guia-saltillo/sarape-saltillo.jpg",
+    "bytes": 352135
+  },
+  {
+    "path": "guia-saltillo/saraperos-estadio.jpg",
+    "bytes": 790626
+  },
+  {
+    "path": "guia-saltillo/sierra-zapaliname.jpg",
+    "bytes": 975229
+  },
+  {
+    "path": "guia-saltillo/teatro-fernando-soler.jpg",
+    "bytes": 588018
+  },
+  {
+    "path": "guia-saltillo/tranvia-centro.jpg",
+    "bytes": 389053
+  },
+  {
+    "path": "guia-saltillo/vinedo-region.jpg",
+    "bytes": 831027
+  },
+  {
+    "path": "logo-ocv-horizontal.png",
+    "bytes": 11910
+  },
+  {
+    "path": "logo-ocv-vertical.png",
+    "bytes": 19812
+  },
+  {
+    "path": "municipios/arteaga/cabecera-01.jpg",
+    "bytes": 10379602
+  },
+  {
+    "path": "municipios/arteaga/cabecera-02.jpg",
+    "bytes": 1495678
+  },
+  {
+    "path": "municipios/arteaga/monterreal.jpg",
+    "bytes": 5890859
+  },
+  {
+    "path": "municipios/arteaga/pueblo-magico.webp",
+    "bytes": 455020
+  },
+  {
+    "path": "municipios/arteaga/san-antonio.jpg",
+    "bytes": 393106
+  },
+  {
+    "path": "municipios/arteaga/sierra-01.jpg",
+    "bytes": 6487704
+  },
+  {
+    "path": "municipios/arteaga/sierra-02.jpg",
+    "bytes": 5817292
+  },
+  {
+    "path": "municipios/arteaga/sierra-03.jpg",
+    "bytes": 10528563
+  },
+  {
+    "path": "municipios/general-cepeda/panoramica-01.jpg",
+    "bytes": 689612
+  },
+  {
+    "path": "municipios/general-cepeda/panoramica-02.jpg",
+    "bytes": 4879794
+  },
+  {
+    "path": "municipios/general-cepeda/panoramica-03.jpg",
+    "bytes": 2740109
+  },
+  {
+    "path": "municipios/general-cepeda/panoramica-04.jpg",
+    "bytes": 1291237
+  },
+  {
+    "path": "municipios/general-cepeda/patrimonio.jpg",
+    "bytes": 182871
+  },
+  {
+    "path": "municipios/ramos-arizpe/centro-aereo-01.jpg",
+    "bytes": 1855316
+  },
+  {
+    "path": "municipios/ramos-arizpe/centro-aereo-02.jpg",
+    "bytes": 2779097
+  },
+  {
+    "path": "municipios/ramos-arizpe/dinolandia.jpeg",
+    "bytes": 219542
+  },
+  {
+    "path": "municipios/ramos-arizpe/parque-industrial.jpg",
+    "bytes": 1029552
+  },
+  {
+    "path": "municipios/ramos-arizpe/san-nicolas-tolentino.png",
+    "bytes": 694426
+  },
+  {
+    "path": "municipios/ramos-arizpe/termas-san-joaquin.jpg",
+    "bytes": 3096937
+  },
+  {
+    "path": "municipios/saltillo/ciudad-01.jpg",
+    "bytes": 4141758
+  },
+  {
+    "path": "municipios/saltillo/ciudad-02.jpg",
+    "bytes": 6694478
+  },
+  {
+    "path": "municipios/saltillo/ciudad-03.jpg",
+    "bytes": 5324925
+  },
+  {
+    "path": "municipios/saltillo/ciudad-04.jpg",
+    "bytes": 14543299
+  },
+  {
+    "path": "municipios/saltillo/ciudad-05.jpg",
+    "bytes": 9513778
+  },
+  {
+    "path": "municipios/saltillo/ciudad-06.jpg",
+    "bytes": 14433631
+  },
+  {
+    "path": "municipios/saltillo/palacio-gobierno.jpg",
+    "bytes": 3931629
+  },
+  {
+    "path": "og.png",
+    "bytes": 1904039
+  },
+  {
+    "path": "plaza-armas.jpg",
+    "bytes": 753302
+  },
+  {
+    "path": "teatro-garcia-carrillo.jpg",
+    "bytes": 2216025
+  },
+  {
+    "path": "vinos-dinos.jpg",
+    "bytes": 3535793
+  }
+]
