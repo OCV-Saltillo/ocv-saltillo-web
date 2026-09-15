@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OCV Saltillo</title>
+  <link rel="stylesheet" href="./assets/ocv-app.css">
+  <script>
+    (function () {
+      var isGitHubPages = window.location.hostname.toLowerCase().endsWith('.github.io');
+      var pathParts = window.location.pathname.split('/').filter(Boolean);
+      var basePath = isGitHubPages && pathParts.length ? '/' + pathParts[0] : '';
+      var baseElement = document.createElement('base');
+      baseElement.href = window.location.origin + basePath + '/';
+      document.head.appendChild(baseElement);
+      var params = new URLSearchParams(window.location.search);
+      var restoredLocation = params.get('__ocv_route');
+
+      if (restoredLocation) {
+        params.delete('__ocv_route');
+        var restoredUrl = basePath + restoredLocation;
+        var remainingQuery = params.toString();
+        if (remainingQuery) {
+          restoredUrl += (restoredUrl.indexOf('?') === -1 ? '?' : '&') + remainingQuery;
+        }
+        window.history.replaceState(null, '', restoredUrl);
+      }
+
+      var route = window.location.pathname.slice(basePath.length) || '/';
+      window.OCVSaltilloConfig = {
+        assetsUrl: window.location.origin + basePath + '/assets/public',
+        siteUrl: window.location.origin + basePath
+      };
+      window.OCVSaltilloRoute = route;
+    }());
+  </script>
+</head>
+<body>
+  <div class="ocv-saltillo-app-mount" data-ocv-saltillo-app></div>
+  <noscript>Este sitio necesita JavaScript para mostrar sus funciones interactivas.</noscript>
+  <script>
+    document.querySelector('[data-ocv-saltillo-app]').dataset.route = window.OCVSaltilloRoute || '/';
+  </script>
+  <script type="module" src="./assets/ocv-app.js"></script>
+</body>
+</html>

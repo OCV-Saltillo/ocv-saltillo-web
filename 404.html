@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>OCV Saltillo</title>
+  <script>
+    (function () {
+      var isGitHubPages = window.location.hostname.toLowerCase().endsWith('.github.io');
+      var pathParts = window.location.pathname.split('/').filter(Boolean);
+      var basePath = isGitHubPages && pathParts.length ? '/' + pathParts[0] : '';
+      var route = window.location.pathname.slice(basePath.length) || '/';
+      var originalLocation = route + window.location.search + window.location.hash;
+      window.location.replace(basePath + '/?__ocv_route=' + encodeURIComponent(originalLocation));
+    }());
+  </script>
+</head>
+<body>
+  <noscript>Este sitio necesita JavaScript para mostrar sus funciones interactivas.</noscript>
+</body>
+</html>

@@ -1,0 +1,22 @@
+# System and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local packages and build artifacts
+node_modules/
+dist/
+
+# Source archives and logs
+*.zip
+*.log
